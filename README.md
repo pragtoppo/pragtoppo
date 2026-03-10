@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello World!
+
+I'm Pragati! I'm currently a 4th year software engineering major studying at Cal Poly San Luis Obispo! 
+My interests lie in Machine Learning and Computer Graphics and I look forward to completing more projects in these fields!
 
 <!--
 **pragtoppo/pragtoppo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
