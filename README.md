@@ -1,6 +1,6 @@
 ## Hello World!
 
-I'm Pragati! I'm currently a 4th year software engineering major studying at Cal Poly San Luis Obispo! 
+I'm Pragati! I'm currently an incoming M.S Computer Science Student at University of California - Davis! 
 My interests lie in Machine Learning and Computer Graphics and I look forward to completing more projects in these fields!
 
 <!--
