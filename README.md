@@ -1,6 +1,6 @@
 ## Hello World!
 
-I'm Pragati! I'm currently an incoming M.S Computer Science Student at University of California - Davis! 
+I'm Pragati! I'm currently a 1st year M.S Computer Science Student at University of California - Davis! 
 My interests lie in Machine Learning and Computer Graphics and I look forward to completing more projects in these fields!
 
 <!--
